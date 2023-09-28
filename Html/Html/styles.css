@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(113, 180, 113, 0.74);
+
+}
+header {
+    width: 100%;
+    background-color: rgba(112, 107, 156, 0.548);
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px;
+}
+.botoes ul {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+main {
+    padding: 50px;
+}
+main h1 {
+    font-size: 50px;
+}
+
+.formacoes h3{
+    padding: 5px;
+}
+.imagem_panda {
+    display: flex;
+    justify-content: end;
+}
+.imagem_panda img{
+    width: 200px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    
+}
+.panda_comendo {
+    display: flex;
+    justify-content: center;
+    
+}
+.panda_comendo img {
+    width: 250px;
+    margin-top: 50px;
+}
